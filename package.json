@@ -21,7 +21,7 @@
     "micro": "^9.3.4",
     "micro-cors": "^0.1.1",
     "micro-query": "^0.3.0",
-    "nanoid": "^2.1.8",
+    "nanoid": "^3.1.31",
     "vue": "^2.6.11",
     "vue-qrcode-reader": "^2.1.1",
     "vue-router": "^3.1.3",
